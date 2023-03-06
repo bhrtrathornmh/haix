@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.search-page {
+  background: linear-gradient(to bottom right, #a5d5ff, #c1e7ff);
+  /* other styles */
+}
+.search-page {
+  background: linear-gradient(to bottom right, #a5d5ff, #c1e7ff);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
